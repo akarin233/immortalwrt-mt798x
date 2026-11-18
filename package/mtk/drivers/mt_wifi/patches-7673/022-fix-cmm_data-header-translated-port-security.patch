@@ -1,4 +1,4 @@
-From: 开发
+From: akarin233
 Subject: [PATCH] mtk: mt_wifi: fix header-translated RX port security
 
 The 7.6.7.3 header-translated receive path looks up the reconstructed
